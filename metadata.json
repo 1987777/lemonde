@@ -1,0 +1,8 @@
+{
+  "name": "Le Monde Digital",
+  "description": "Le Monde Digital is a professional consulting and digital solutions firm providing expertise across sustainability reporting, financial management, accounting, payroll systems and data-driven business decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
